@@ -30,7 +30,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/bootswatch/dist/darkly/bootstrap.min.css",
+              "./node_modules/font-awesome/css/font-awesome.min.css",
+              "./node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
           },
@@ -100,5 +103,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "3e773467-26a7-4be9-bc87-8dd9ba8e73ff"
   }
 }

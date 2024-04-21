@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "id": "a9d6",
+      "firstName": "ddede",
+      "lastName": "dede",
+      "phone": "dede",
+      "email": "dede@def",
+      "balance": 5
+    },
+    {
+      "id": "e868",
+      "firstName": "HAMZA",
+      "lastName": "RACHID",
+      "phone": "0602352750",
+      "email": "rachidhmz@gmail.com",
+      "balance": 2
+    }
+  ]
+}
